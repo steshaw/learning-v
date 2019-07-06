@@ -1,0 +1,6 @@
+*.dSYM
+*_test
+
+/filter-log
+/hello
+/json
